@@ -1,0 +1,21 @@
+body{
+    text-align:  center;
+}
+h1{
+   font-size: 60px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: darkslategrey;
+    color: gainsboro;
+}
+p{
+    font-size: 30px;
+
+}
+button:hover{
+    background-color: mediumvioletred;
+}
